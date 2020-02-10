@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManager (6.4.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - Moya
+  - SDWebImage
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - IQKeyboardManager
+    - SDWebImage
+    - Toast-Swift
+  trunk:
+    - Moya
+    - Result
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManager: fcef267266379c003181fc3592f6bdb8bf4db839
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: 0b797b1ce83f5e4ab85eca3b0e73602fbd7e505e
+
+COCOAPODS: 1.8.3
